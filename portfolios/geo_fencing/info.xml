@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <title>Geo Fencing</title>
+    <month>05</month>
+    <year>2017</year>
+    <client>Mattress Firm</client>
+    <summary>
+        This marketing campaign was designed to drive traffic into Mattress Firm stores over the memorial day weekend. 
+        There were approximately 3,500 participating locations. Customers were directed to go to a participating Mattress Firm location, access the 
+        site from their smart phone, and register.
+        After registration, the customer would play a flash animation game that would reveal a potential 
+        $3,000 mattress win, or a discount code. The flash game was developed by a 
+        third party and was fed data from my application to determine the various win/lose scenarios. 
+        <![CDATA[<br/><br/>]]>
+        The promotion was so successful that Mattress Firm wanted to rerun the promotion the next week, which was just not feasible. However, we 
+        are in the process of setting up a similar campaign now. 
+    </summary>
+    <technology>
+        PHP/MYSQL, Google Places, Sparkpost, HTML5/CSS, Jquery
+    </technology>
+    <access>3</access>
+</info>

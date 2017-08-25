@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<descriptions>
+    <description>1. When inputting estimated costs, the user may enter as many categories as they want and as many individual charges for each category.</description>
+    <description>2. Upon saving the inputs for a category, the green checkbox will appear and the category details will be hidden.</description>
+    <description>3. When inputting invoices, my tool looks up the vendor to which the invoice is due, 
+                    calculates when the due date is(according to their payment terms),
+                    and sends out email alerts when the due date is getting close.</description>
+    <description>4. Here we see a report for a project.</description>
+   
+</descriptions>

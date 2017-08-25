@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<descriptions>
+    <description>Step 1. fill out all of the fields and upload an image.</description>
+    <description>Step 2. Edit your uploaded image.</description>
+    <description>Step 3. After accepting image edits, download or share final image</description>
+    <description>Step 4. On the backend, the image is uploaded to a real time mosaic service.</description>
+    <description>Step 5. View customized real time activity of the application.</description>
+</descriptions>

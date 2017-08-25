@@ -1,0 +1,46 @@
+
+/* 
+    Created on : Jun 15, 2017, 1:24:42 PM
+    Author     : tcrady
+*/
+
+
+//GLOBAL STUFF
+
+html, body{
+    padding:0px;
+    margin:0px;
+}
+
+.container{
+    width:90%;
+    padding:10px;
+    margin:5px auto;
+    max-width:1140px;
+}
+
+//GLOBAL STUFF
+
+//Global classes I will be reusing -----------------------------------
+    .easing{
+        -webkit-transition: all .3s ease;
+        -moz-transition: all .3s ease;
+        transition: all .3s ease;
+    }
+//Global classes I will be reusing -----------------------------------
+
+.album_image_container{
+    width:100px;
+    height:100px;
+    display:inline-block;
+    overflow:hidden;
+    margin:2px;
+    border:2px solid transparent;
+    .easing//adds smooth transition
+}
+.album_image_container:hover{
+    border:2px solid red;
+}
+.album_image{
+    width:150px;
+}

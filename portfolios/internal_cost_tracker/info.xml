@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <title>Revenue Tracker</title>
+    <month>09</month>
+    <year>2016</year>
+    <client>Internal Systems Enhancements</client>
+    <summary>
+        Between projects, I was tasked with building a system to show reports of the financial aspects of a project. 
+        This system was entirely coded by me, but I strategized heavily with our operations manager. The first tool needed was an estimation tool.
+        With this tool, project managers would input any projected costs for a project. The next tool was expense tracker; here is where project managers input all expenses
+        incurred for a project. Once I our estimated costs and our actual costs data, I could start showing reports.
+        <![CDATA[  <br/><br/>  ]]> 
+        The reports tab not only pulled data from the two tools I created, but from 3 more sources of data. The results is a detailed view of the projects financial status, 
+        broken down by category. If a category is ever within a certain amount of the estimated cost or is over the estimated cost, an alert is sent out to the project manager. 
+        
+    </summary>
+    <technology>
+        PHP/MYSQL, HTML/CSS, jQuery
+    </technology>
+    <access>3</access>
+</info>

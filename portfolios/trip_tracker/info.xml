@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <title>Vacation Tracker</title>
+    <month>05</month>
+    <year>2017</year>
+    <client>Personal Project</client>
+    <summary>
+        While my Baltics vacation was my first time out of the country, I plan on visiting many other countries; Spain is next on my list.
+        I wanted to always be able to know just where I had been and leave little mementos, so I created this little tracker application using HTML5 and 
+        Google Places API. Whenever I dropped a pin an email was sent to a couple people who were following my travels. 
+        
+        <![CDATA[  <br/><br/>  ]]> 
+        
+        
+        
+    </summary>
+    <technology>
+        PHP/MYSQL, HTML/CSS, Google Places API
+    </technology>
+    <access>open</access>
+</info>

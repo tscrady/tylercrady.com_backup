@@ -1,0 +1,10 @@
+
+
+Deny from all
+
+
+#AuthType Basic
+#AuthName "tcrady"
+#AuthUserFile /home/tylercra/public_html/tylercrady.com/.htpasswd
+#Require valid-user
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <title>tylercrady.com</title>
+    <month>07</month>
+    <year>2017</year>
+    <client>Personal Project</client>
+    <summary>
+        I set out to build my personal website with a few directives in mind: learn a css pre-processor (I chose LESS), create 
+        the whole thing without a database (flat file), and make it extremely easy to add an image gallery to the site. 
+        <![CDATA[<br/> ]]>
+        <![CDATA[<br/> ]]>
+        By learning some php functions pertaining to scanning directories  
+        and reading xml files, having a new gallery fully integrated into my site is as easy as dragging and dropping a folder.
+        Setting up classes, functions, and directory trees in a way that is essentially replicating what would be database tables and queries has been...interesting. 
+        Without a database I setup a gallery and portfolio template that are automatically integrated into the menu bar and navigation widgets, as well as login functionality.  
+        <![CDATA[<br/> ]]>
+        <![CDATA[<br/> ]]>
+        While building the site flat file was a fun excercise, there are components of the site that I will be rebuilding using a database. 
+        Using a flat file system for many of these functions, and other functionality to come, 
+        just doesn't seem practical to me and may get messy as content increases. 
+        
+        
+        
+        <![CDATA[  <br/><br/>  ]]> 
+        
+        
+        
+    </summary>
+    <technology>
+        PHP, HTML/CSS/LESS, Bootstrap 
+    </technology>
+    <access>open</access>
+</info>

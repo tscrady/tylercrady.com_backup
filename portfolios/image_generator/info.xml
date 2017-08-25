@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <title>Image Generator</title>
+    <month>02</month>
+    <year>2017</year>
+    <client>Dish Latino</client>
+    <summary>The image generator I built for Dish Latino was part of a large PR piece to show pride in the American-Latino community. Users were welcomed to 
+        participate by creating images that would make up a mosaic of the United States flag. On these images were the names of the cities the user was born in and the name 
+        of the city they were curring living. The photo and data was then pushed to the third party mosaic application. 
+        <![CDATA[  <br/><br/>  ]]> 
+        
+        While the site could be reached through a desktop, almost every entry came from a mobile device. The entire site was in Spanish so I got to pick 
+        up a few new words in the process. 
+        
+    </summary>
+    <technology>
+        PHP/MYSQL, ImageMagick, HTML/CSS, Jquery
+    </technology>
+    <access>3</access>
+</info>

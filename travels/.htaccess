@@ -1,0 +1,14 @@
+
+
+
+RewriteEngine on
+
+DirectoryIndex locations.php
+
+
+AuthType Basic
+AuthName "Create Pin"
+AuthUserFile /home/tylercra/public_html/tylercrady.com/travels/.htpasswd
+<files index.php>
+require valid-user
+</files>

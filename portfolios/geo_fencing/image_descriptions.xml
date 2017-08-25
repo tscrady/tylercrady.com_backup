@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<descriptions>
+    <description>Step 1. Click to locate which store you are inside.</description>
+    <description>Step 2. If the user was in a store, they were shown the sign up form.</description>
+    <description>Step 3. If a user was not in a store, they were shown Google Maps links to the 5 nearest locations.</description>
+    <description>Step 4. After sign up, users could then pull the sheet down to reveal a potential prize.</description>
+    <description>Step 5. All non mattress wins were given a discount code offer.</description>
+    <description>Step 6. All users were emailed their offer or win code.</description>
+</descriptions>

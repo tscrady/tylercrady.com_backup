@@ -1,0 +1,198 @@
+/* ------------- GLOBAL STYLES ------------*/
+body,
+html {
+  padding: 0px;
+  margin: 0px;
+  font-family: Arial;
+  height: 100%;
+  color: #f4f4f4;
+  background-image: url('../images/world.png');
+  background-position: center center;
+  background-size: cover;
+  background-color: #373737;
+}
+#wrapper {
+  display: block;
+  text-align: center;
+  margin: 0% auto 0px auto;
+  width: 100%;
+  height: 100%;
+}
+.container {
+  background-color: rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 5px 10px #222;
+  width: 90%;
+  max-width: 400px;
+  display: block;
+  padding: 10px;
+  margin: 10px auto;
+  text-align: center;
+}
+select,
+input[type='text'] {
+  padding: 5px;
+  width: 300px;
+  font-size: 20px;
+  margin: 0px auto;
+  display: block;
+  box-sizing: border-box;
+  outline: none;
+  border: 1px solid #777;
+  -webkit-appearance: none;
+  border-radius: 0px;
+}
+select {
+  background-color: #C0B283;
+  color: #f4f4f4;
+}
+select:hover,
+.button:hover {
+  cursor: pointer;
+}
+.field {
+  width: 300px;
+  text-align: left;
+  margin: 30px auto;
+}
+.field_label {
+  margin: 2px 2px 0px 2px;
+  padding: 0px;
+  font-size: 18px;
+}
+.field select {
+  margin: 0px;
+}
+.button {
+  border: 1px solid #777;
+  padding: 5px;
+  display: inline-block;
+  font-size: 20px;
+  margin: 0px auto;
+  box-sizing: border-box;
+  width: 120px;
+  background-color: #C0B283;
+  text-align: center;
+  text-decoration: none;
+  color: #f4f4f4;
+  cursor: pointer;
+}
+/* ------------- GLOBAL STYLES ------------*/
+/* ---------------- INDEX ---------------*/
+#enable_location,
+#upload_image {
+  width: 300px;
+}
+#user_position {
+  display: none;
+}
+#user_position input {
+  font-size: 14px;
+}
+textarea {
+  width: 100%;
+  -webkit-appearance: none;
+  border-radius: 0px;
+  height: 50px;
+  font-size: 18px;
+}
+#image_preview {
+  display: none;
+  width: 300px;
+  margin: 5px auto;
+}
+/* ---------------- INDEX ---------------*/
+/* ------------ NAVIGATION -----------------*/
+#nav {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin: 0px auto;
+  padding: 4px 0px 4px 0px;
+  background-color: rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 5px 10px #222;
+}
+.nav {
+  /*border-bottom:3px solid transparent;*/
+  border-right: 0px;
+  border-left: 0px;
+  margin: 2px;
+}
+.active {
+  border-bottom: 5px solid white;
+}
+/* ------------ NAVIGATION -----------------*/
+/* --------------- LOCATIONS PAGE -------------*/
+#map {
+  margin: 20px auto;
+  height: 90%;
+  z-index: 9999;
+  width: 90%;
+}
+.stat {
+  display: inline-block;
+  padding: 2px;
+  font-family: arial;
+  text-align: left;
+  width: 140px;
+  margin: 5px auto;
+}
+.stat input[type='checkbox'] {
+  height: 20px;
+  width: 20px;
+  vertical-align: middle;
+}
+.stat input[type='checkbox']:hover {
+  cursor: pointer;
+}
+.stat img {
+  vertical-align: middle;
+}
+.stat p {
+  display: inline-block;
+  vertical-align: middle;
+  font-weight: bold;
+  margin: 2px;
+  padding: 0px;
+}
+#loading {
+  position: absolute;
+  left: 50%;
+  margin-left: -100px;
+  width: 200px;
+  top: 25%;
+  z-index: 999;
+}
+.window_info {
+  color: black;
+  text-align: left;
+}
+.info_window_date {
+  padding: 0px;
+  margin: 0px;
+  font-size: 14px;
+  display: inline-block;
+  font-weight: bold;
+}
+.info_window_time {
+  font-weight: bold;
+  padding: 0px;
+  margin: 0px 0px 0px 15px;
+  font-size: 14px;
+  display: inline-block;
+}
+.info_window_addr {
+  margin: 5px 0px 0px 0px;
+  font-style: italic;
+  padding: 0px;
+  display: block;
+  font-size: 12px;
+}
+.info_window_text {
+  display: block;
+  font-size: 16px;
+}
+.info_window_imag {
+  display: block;
+  width: 400px;
+}
+/* --------------- LOCATIONS PAGE -------------*/

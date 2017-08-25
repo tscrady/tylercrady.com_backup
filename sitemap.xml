@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://tylercrady.com/</loc>
+</url>
+<url>
+  <loc>https://tylercrady.com/images/</loc>
+</url>
+<url>
+  <loc>https://tylercrady.com/portfolio</loc>
+</url>
+<url>
+  <loc>https://tylercrady.com/posts/</loc>
+</url>
+<url>
+  <loc>https://tylercrady.com/posts/random/?cat=random</loc>
+</url>
+<url>
+  <loc>https://tylercrady.com/posts/travels</loc>
+</url>
+<url>
+  <loc>https://tylercrady.com/contact</loc>
+</url>
+<url>
+  <loc>https://tylercrady.com/login</loc>
+</url>
+<url>
+  <loc>https://tylercrady.com/portfolio/</loc>
+</url>
+<url>
+  <loc>https://tylercrady.com/travels/</loc>
+</url>
+<url>
+  <loc>https://tylercrady.com/travels/locations.php</loc>
+</url>
+</urlset>
